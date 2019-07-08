@@ -1,0 +1,16 @@
+{
+"companyName": "Stackathon",
+"productName": "Stack Attack!",
+"productVersion": "0.1",
+"dataUrl": "Stack_Attack.data.unityweb",
+"wasmCodeUrl": "Stack_Attack.wasm.code.unityweb",
+"wasmFrameworkUrl": "Stack_Attack.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.0f2"
+}
